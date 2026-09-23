@@ -1,18 +1,8 @@
-# Hola, soy Lyonel
+# Hi, I'm Lyonel
 
-Estoy armando un portfolio orientado a administracion, herramientas digitales, paginas web y aplicaciones de gestion.
+I build practical digital tools for small businesses and independent projects.
 
-## En que estoy trabajando
+**Focus:** Websites, online catalogs, and lightweight management applications  
+**Tools:** HTML, CSS, JavaScript, and GitHub Pages
 
-- Paginas web para emprendimientos y servicios.
-- Catalogos online simples y funcionales.
-- Aplicaciones de gestion para organizar pedidos, clientes, pagos, tareas y procesos internos.
-- Proyectos practicos con HTML, CSS, JavaScript y GitHub Pages.
-
-## Perfil
-
-Busco construir proyectos claros, ordenados y utiles, con foco en resolver necesidades reales: presentar un negocio, organizar informacion, mejorar procesos y crear herramientas digitales simples de usar.
-
-## Tecnologias
-
-HTML, CSS, JavaScript, GitHub Pages y herramientas de organizacion digital.
+I value clear design, simple workflows, and solutions that solve real problems.
